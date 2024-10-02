@@ -1,12 +1,2 @@
 streamlit
-SpeechRecognition
-pyaudio
-transformers
-scikit-learn
-requests
-numpy
-pandas
-plotly
-pyttsx3
-tensorflow
-tf-keras
+streamlit_option_menu
