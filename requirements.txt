@@ -1,9 +1,12 @@
 streamlit
-streamlit_option_menu
-tensorflow
+SpeechRecognition
+pyaudio
+transformers
+scikit-learn
+requests
 numpy
 pandas
 plotly
-scikit-learn
-joblib
-yfinance
+pyttsx3
+tensorflow
+tf-keras
