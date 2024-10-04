@@ -2,6 +2,8 @@
 
 This Streamlit application provides recommendations for books by the same author and movies based on a user-input movie title. The app uses the Open Library API for book details and the OMDb API for movie recommendations.
 
+**Click here for the app:** [Recommendation App](https://recommendationsystems-abe.streamlit.app/)
+
 ## Features
 1. **Book Recommendations**:
    - Search for a book by title and find other books by the same author.
@@ -23,7 +25,7 @@ The `st.set_page_config` function sets the page title to "Recommending System" a
 
 ### 3. Define API Endpoints
 - **Open Library API**: Used to fetch book details and cover images.
-- **OMDb API**: Used for fetching movie recommendations. The `OMDB_API_KEY` is set to `"a696991"` (replace with your own key if needed).
+- **OMDb API**: Used for fetching movie recommendations. The `OMDB_API_KEY`  (replace with your own key if needed).
 
 ### 4. Helper Functions
 #### `get_book_details(book_title)`
